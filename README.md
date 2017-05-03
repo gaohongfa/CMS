@@ -2,12 +2,12 @@
 CMS学习记录
    Github问题集（2）
 1.	个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
-    New repository 新建一个仓库
-    Import repository导入一个仓库
-    New gist创建一个代码片段 gist
-    New organization新建组织
+New repository 新建一个仓库
+   Import repository导入一个仓库
+   New gist创建一个代码片段 gist
+   New organization新建组织
 2.	如何能将仓库中的html文件直接解析成页面？
-Settings git page   
+   Settings git page   
 3.	如何删除仓库
      Settings 最下边
 4.	Bash是什么操作系统的命令
