@@ -2,7 +2,7 @@
 CMS学习记录
    Github问题集（2）
 1.	个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
-New repository 新建一个仓库
+   New repository 新建一个仓库
    Import repository导入一个仓库
    New gist创建一个代码片段 gist
    New organization新建组织
@@ -11,8 +11,9 @@ New repository 新建一个仓库
 3.	如何删除仓库
      Settings 最下边
 4.	Bash是什么操作系统的命令
-Linux
+   Linux
 5.	Pwd是什么命令
+   
 6.	Cd是什么命令
 7.	Echo是什么命令
 8.	配置git用户名的命令
@@ -30,6 +31,6 @@ Linux
 20.	直接从工作区提交到仓库的命令
 21.	显示变更信息的命令 git status
 22.	查看历史信息的命令 git log
-23.	Commit的意义是   修改 版本
-24.	Pull的意义是  拽
-25.	Push的意义是  推
+23.	Commit的意义是   提交
+24.	Pull的意义是  拽 远程到本地
+25.	Push的意义是  推 本地到远程
