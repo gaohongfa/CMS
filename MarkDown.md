@@ -4,7 +4,8 @@
 写日志 技术文稿 记录点码片段  
 **工具**  
 Mac OS:MOU
-Windows：MarkDown Pad、Markable in  
+Windows：MarkDown Pad、Mark pad、hbuilder
+web:gihub、Markable in  
 **常用语法**  
 1. #一级标题
 2. ##二级标题
